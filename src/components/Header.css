@@ -1,0 +1,9 @@
+.header-hader {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.header-title {
+    margin: 0;
+}
